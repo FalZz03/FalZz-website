@@ -3,14 +3,6 @@ body {
     margin: 0;
 }
 
-h1 {
-    background-color: #666;
-    padding: 30px;
-    text-align: center;
-    font-size: 35px;
-    color: white;
-}
-
 p {
     text-align: center;
     color: gray
@@ -25,8 +17,6 @@ ul {
 li {
     display: inline;
 }
-
-
 
 div.gallery {
     margin: 5px;
@@ -49,32 +39,32 @@ div.desc {
     text-align: center;
 }
 
-
 /* Style the header */
 .header {
-    background-color: #f1f1f1;
+    background-color: #666;
     padding: 20px;
     text-align: center;
-  }
+    color: white;
+}
   
   /* Style the top navigation bar */
-  .topnav {
+.topnav {
     overflow: hidden;
     background-color: #333;
-  }
+}
   
   /* Style the topnav links */
-  .topnav a {
+.topnav a {
     float: left;
     display: block;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
   /* Change color on hover */
-  .topnav a:hover {
+.topnav a:hover {
     background-color: #ddd;
     color: black;
-  }
+}
