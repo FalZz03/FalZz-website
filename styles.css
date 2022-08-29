@@ -3,7 +3,10 @@ body {
 }
 
 h1 {
-    text-align: center;
+    background-color: #666;
+    padding: 30px;
+    font-size: 35px;
+    color: white;
 }
 
 p {
